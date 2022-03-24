@@ -1,4 +1,4 @@
-## Oi eu sou a Lucas Santana!
+## Olá, eu sou a Lucas Santana!
 <div align="center">
   <a href="https://github.com/lucass-coder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucass-coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
