@@ -1,4 +1,8 @@
 ## Olá, eu sou a Lucas Santana!
+
+- 🔭 Hoje eu trabalho como dev Flutter
+- 🌱 Estudando React-Native e Java
+
 <div align="center">
   <a href="https://github.com/lucass-coder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucass-coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
