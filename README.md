@@ -1,7 +1,7 @@
 ## Olá, eu sou a Lucas Santana!
 
 - 🔭 Hoje eu trabalho como dev Flutter
-- 🌱 Estudando React-Native e Java
+- 🌱 Estudando Angular e TypeScript
 
 <div align="center">
   <a href="https://github.com/lucass-coder">
