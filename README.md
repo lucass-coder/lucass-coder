@@ -1,7 +1,9 @@
 ## Olá, eu sou a Lucas Santana!
 
+- 💻 Meu site pessoal feito em Flutter -> https://lucass-coder.github.io
 - 🔭 Hoje eu trabalho como dev Flutter
 - 🌱 Estudando Angular e TypeScript
+
 
 <div align="center">
   <a href="https://github.com/lucass-coder">
